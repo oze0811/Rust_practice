@@ -4,3 +4,4 @@
 
 ## Reference book
 - https://www.amazon.co.jp/dp/B09WQT2DQD
+- https://man.plustar.jp/rust/book/title-page.html
