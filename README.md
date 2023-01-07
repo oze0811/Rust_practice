@@ -4,4 +4,6 @@
 
 ## Reference book
 - https://www.amazon.co.jp/dp/B09WQT2DQD
-- https://man.plustar.jp/rust/book/title-page.html
+
+## Reference website
+- https://doc.rust-jp.rs/atcoder-rust-resources/introduction.html
